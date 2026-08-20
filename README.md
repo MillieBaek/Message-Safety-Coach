@@ -9,14 +9,14 @@ A coach that helps people vulnerable to scams (including seniors) understand sus
 
 ## Tech Stack 
 
-React — Interactive frontend and component-based UI
-JavaScript (ES6+) — Application logic and user interactions
-Anthropic API — AI-powered phishing message analysis
-React Hooks (useState) — State management for user input
-CSS — Interface styling and layout
-Vite — Development server and build tool
-Vercel — Deployment and serverless functions
-Git & GitHub — Version control and project management
+- React — Interactive frontend and component-based UI
+- JavaScript (ES6+) — Application logic and user interactions
+- Anthropic API — AI-powered phishing message analysis
+- React Hooks (useState) — State management for user input
+- CSS — Interface styling and layout
+- Vite — Development server and build tool
+- Vercel — Deployment and serverless functions
+- Git & GitHub — Version control and project management
 
 ## Testing locally
 ```bash
