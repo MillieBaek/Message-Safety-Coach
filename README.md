@@ -30,5 +30,3 @@ Copy `.env.example` to `.env` and add your real API key first.
 - Test with 3–5 real users and refine wording/category names based on their feedback
 - Add rate limiting or caching to manage API costs
 
-![alt text](image-1.png)
-![alt text](image.png)
