@@ -1,0 +1,9 @@
+{
+  "name": "message-safety-coach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A phishing-message coach for people vulnerable to scams",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
